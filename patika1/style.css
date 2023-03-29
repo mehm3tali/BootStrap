@@ -1,0 +1,47 @@
+body {
+  color: #e9ecef;
+}
+
+.nav-link {
+  color: #fff;
+}
+.navbar-brand {
+  color: red;
+}
+.karsila h1,
+p {
+  text-align: center;
+  color: black;
+}
+
+.list {
+  text-align: center;
+  list-style: none;
+}
+
+#fa {
+  color: darkred;
+}
+.card {
+  width: 400px;
+  height: 600px;
+  margin-top: 20%;
+}
+
+.card img {
+  width: 400px;
+  height: 600px;
+  align-items: center;
+  text-align: center;
+}
+
+#fact img {
+  width: 400px;
+  height: 600px;
+  margin-top: 25%;
+}
+
+p {
+    margin-top: 15%;
+    color: black;
+}
